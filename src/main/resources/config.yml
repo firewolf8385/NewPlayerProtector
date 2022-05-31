@@ -1,0 +1,7 @@
+# The amount of time (in seconds) a new player should be protected.
+ProtectionTime: 300
+
+# These are the various messages sent by the plugin.
+# RGB is supported through the format &#XXXXXX where the X's are the hex color code.
+CannotAttackMessage: "&cYou cannot attack that player currently."
+ExpiredMessage: "&cOther played will now be able to attack you."

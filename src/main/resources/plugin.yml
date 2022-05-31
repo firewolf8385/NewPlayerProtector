@@ -1,0 +1,7 @@
+name: NewPlayerProtector
+version: 1.0
+main: com.github.firewolf8385.newplayerprotector.NewPlayerProtector
+api-version: 1.13
+authors: [ firewolf8385 ]
+description: Protect players from being attacked when they join for the first time
+website: https://github.com/firewolf8385
