@@ -31,7 +31,7 @@ public class EntityDamageByEntityListener implements Listener {
     @EventHandler
     public void onDamage(EntityDamageByEntityEvent event) {
         // Makes sure the entity is a player.
-        if((event.getEntity() instanceof Player)) {
+        if(!(event.getEntity() instanceof Player)) {
             return;
         }
 
